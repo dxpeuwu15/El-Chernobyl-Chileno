@@ -1,0 +1,67 @@
+body{
+  background-color: #e7f0a8;
+  color: #c7710f;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100%;
+  min-width: 1000px;
+  max-width: 65%;
+  max-height:100%;
+}
+img{
+min-height: 200px;
+min-width: 200px;
+max-height: 40%;
+max-width: 40%;
+}
+.titulo h1{
+  margin: 0;
+}
+.especial{
+  color:#ff70e5;
+}
+.titulo h4{
+  margin: 0;
+}
+.titulo{
+  color:#d369cb;
+  font-size: 30px;
+}
+hr{
+  width:100%;
+}
+.contenido{
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.wiki{
+  height: 400px;
+  width: 800px;
+}
+.dos{
+  display:flex;
+  margin: 0px;
+  padding: 0px;
+  height: 200px;
+  width: 100%;
+}
+.dos img{
+  margin-right: 50px;
+  margin-left: 50px;  
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+.p{
+margin: 0;
+}
+
+nav{
+  background-color: #ffb19e;
+}
+nav a{
+  margin-right: 10px;
+  color: #d44102;
+}
